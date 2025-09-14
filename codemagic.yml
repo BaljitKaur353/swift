@@ -1,0 +1,5 @@
+workflows:
+    swiftUI-workflow:
+        name: SwiftUI Sample Workflow
+    scripts:
+        name: iOS Sample
